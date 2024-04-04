@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClassTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-04-04T19:38:48" hostname="DESKTOP-J1EKEKJ" time="0.044">
+  <properties/>
+  <testcase name="existsGuitarPlayerExtendsMusician()" classname="ClassTest" time="0.024"/>
+  <testcase name="existsMethodPlayInMusician()" classname="ClassTest" time="0.005"/>
+  <testcase name="existsGuitarPlayer()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsMusicianExtendsPerson()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsAttrInPerson()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsMethodPlayGuitarInGuitarPlayer()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsMethodInPerson()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsAttrInGuitarPlayer()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsPerson()" classname="ClassTest" time="0.0"/>
+  <testcase name="existsAttrInMusician()" classname="ClassTest" time="0.001"/>
+  <testcase name="existsMusician()" classname="ClassTest" time="0.001"/>
+  <system-out><![CDATA[public void br.ufrn.imd.Musician.play()
+public void br.ufrn.imd.GuitarPlayer.playGuitar()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
